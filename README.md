@@ -7,6 +7,6 @@ A library of some custom unity shaders and shader graphs
 ## 3D Water Shader Graph
 ![image](https://github.com/ZackYang-ops/Unity-Shaders/blob/master/Water/Preview/Preview.gif)
 ## Description
-A 3D water shader graph that will deform what is "under water"
+A 3D water shader graph that will deform what is "under water", it can only be applied to gameobjects with height(it will not work properly if applie to a plane)
 
 
