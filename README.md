@@ -19,3 +19,4 @@ A 3D water shader graph that will deform what is "under water", the material can
 ![image](https://github.com/ZackYang-ops/Unity-Shaders/blob/master/2dDistortion/Preview/2D%20Shader%20Graph%20-%20SampleScene%20-%20PC%2C%20Mac%20%20Linux%20Standalone%20-%20Unity%202019.4.17f1_%20_DX11_%202021-01-06%2013-06-08.gif)
 
 ## 2D Dissolve Effect Shader Graph
+![image](https://github.com/ZackYang-ops/Unity-Shaders/blob/master/2dDissolve/Preview/2D%20Shader%20Graph%20-%20Scene_DissolveEffect%20-%20PC%2C%20Mac%20%20Linux%20Standalone%20-%20Unity%202019.4.17f1%20_DX11_%202021-01-09%2017-56-44.gif)
