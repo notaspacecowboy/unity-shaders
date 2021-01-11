@@ -6,6 +6,7 @@ A library of some custom unity shaders and shader graphs
   * [3D Magical Plasma Shader Graph](#3D-Magical-Plasma-Shader-Graph)
   * [2D Distortion Effect Shader Graph](#2D-Distortion-Effect-Shader-Graph)
   * [2D Dissolve Effect Shader Graph](#2D-Dissolve-Effect-Shader-Graph)
+  * [2D Laser Effect Shader Graph](#2D-Laser-Effect-Shader-Graph)
 
 ## 3D Water Shader Graph
 ![image](https://github.com/ZackYang-ops/Unity-Shaders/blob/master/Water/Preview/Preview.gif)
@@ -20,3 +21,6 @@ A 3D water shader graph that will deform what is "under water", the material can
 
 ## 2D Dissolve Effect Shader Graph
 ![image](https://github.com/ZackYang-ops/Unity-Shaders/blob/master/2dDissolve/Preview/2D%20Shader%20Graph%20-%20Scene_DissolveEffect%20-%20PC%2C%20Mac%20%20Linux%20Standalone%20-%20Unity%202019.4.17f1%20_DX11_%202021-01-09%2017-56-44.gif)
+
+## 2D Laser Effect Shader Graph
+![image](https://github.com/ZackYang-ops/Unity-Shaders/blob/master/2dLaser/Preview/2D%20Shader%20Graph%20-%20Scene_LaserEffect%20-%20PC%2C%20Mac%20%20Linux%20Standalone%20-%20Unity%202019.4.17f1%20_DX11_%202021-01-11%2016-22-22.gif)
